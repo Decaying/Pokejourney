@@ -2,5 +2,10 @@
     box-sizing: border-box;
     margin: 0;
 }
+/*Starting with the index page design
+*/
+header img{
+    text-align: center;
+}
 
 
