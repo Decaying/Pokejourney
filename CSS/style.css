@@ -12,4 +12,12 @@ p {
     font-family: 'Pokemon Solid';
 }
 
+nav ul {
+margin: 0;
+list-style-type: none;
+}
+
+nav li{
+
+}
 
