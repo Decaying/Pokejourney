@@ -71,3 +71,7 @@ overflow: hidden;
 .navbar li a:active{
    color: blueviolet; 
 }
+
+.feet {
+    background-color: red;
+}
