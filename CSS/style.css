@@ -13,12 +13,36 @@ p {
     text-align: center;
 }
 
-nav ul {
+.navbar ul {
 margin: 0;
+padding: 0;
 list-style-type: none;
+overflow: hidden;
 }
 
-nav li{
+.navbar li{
 display: inline;
 }
 
+.navbar li a{
+    text-decoration: none;
+    font-family: 'Pokemon Solid';
+    border: 1px solid black;
+    margin-left: 20px;
+    color: black;
+    margin-right: 2px;
+    font-size: 15px;
+    transition: 0.2s;
+    text-align: center;
+    float: left;
+
+
+}
+
+.navbar li a:hover{
+    color: rgb(182, 211, 211);
+}
+
+.navbar li a:active{
+   color: blueviolet; 
+}
